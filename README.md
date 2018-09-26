@@ -11,7 +11,7 @@ Using [KGML](https://www.kegg.jp/kegg/xml/) files from the [KEGG](https://www.ge
 * Download and unzip the [kegg.zip](https://github.com/SeverineLiegeois/NewKegg/blob/master/kegg.zip) archive.
 * Run **NewKegg** from the provided [JAR](https://github.com/SeverineLiegeois/NewKegg/blob/master/NewKegg.jar):
 
-	java -jar NewKegg.jar
+	   `java -jar NewKegg.jar`
 	
 * Select the unzipped *kegg* directory and wait until processing is done.
 * Once all the files have been parsed, a list of pathways is displayed on the left. Clicking on one pathway shows the graph on the right, and the list of species having this pahtway is given.
